@@ -12,7 +12,7 @@ This project provides an API for interacting with the **Gemini-1.5-flash** langu
 
 ## Tech Stack
 
-![Image Alt](https://skillicons.dev/icons?i=nodejs,express,google)
+![Image Alt](https://skillicons.dev/icons?i=nodejs,express,docker)
 
 ## Features
 
