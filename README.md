@@ -14,13 +14,9 @@ This project provides an API for interacting with the **Gemini-1.5-flash** langu
 
 ![Image Alt](https://skillicons.dev/icons?i=nodejs,express,docker)
 
-## Features
+## [Project Documentation](./documentation.md)
 
-(In Dev.)
-
-## How to run the project?
-
-(In Dev.)
+## [API Documentation](./api-documentation.md)
 
 ## Author
 
