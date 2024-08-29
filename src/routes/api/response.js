@@ -18,7 +18,7 @@ router.post("/", async (req, res) => {
   // Make sure all the required data is valid.
   if (!prompt)
     return res
-      .status(401)
+      .status(400)
       .json(response(false, "Please provide a prompt in the request body."));
 
   try {
