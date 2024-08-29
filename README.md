@@ -1,7 +1,6 @@
-# LLM Middleware APIs
+# LLM Middleware API
 
 ## Description
-
 This project provides an API for interacting with the **Gemini-1.5-flash** language model (LLM). It offers a streamlined interface for developers to prompt and receive responses from this powerful AI model. By blackboxing the complexities of LLM interactions, developers can focus on building applications without the overhead of directly managing LLM connections and API calls. The API can be configured by pulling the image from the DockerHub and passing the Gemini's API key as environment variable. Future plans include expanding the API to support a wider range of LLMs, offering developers more choices and customization options.
 
 <!--
@@ -11,13 +10,9 @@ This project provides an API for interacting with the **Gemini-1.5-flash** langu
 -->
 
 ## Tech Stack
-
 ![Image Alt](https://skillicons.dev/icons?i=nodejs,express,docker)
 
 ## [Project Documentation](./documentation.md)
 
-## [API Documentation](./api-documentation.md)
-
 ## Author
-
 [Dev Shah](https://github.com/busycaesar)
