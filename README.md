@@ -1,4 +1,4 @@
-# LLM Middleware APIs (In Dev.)
+# LLM Middleware APIs
 
 ## Description
 
